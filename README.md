@@ -30,6 +30,7 @@ A recommendation system which finds property to rent or buy.
 9. Price, mortgage parameters.
 10. Local taxes.
 11. Geo position, region.
+12. Internet connection.
 
 ## Data collection
 Interaction with proposed options:
@@ -95,3 +96,4 @@ In the case 4 we decompose the task on user and houses embeddings so we can quic
  - mortgage applications
  - help to manage the property (partner with suppliers/agencies)
  - help to let the property
+ - search on the map (best option at every scale)
